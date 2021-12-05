@@ -1,0 +1,15 @@
+.app{
+    background-color: blueviolet;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.zaid{
+    margin-left: 50px;
+}
+.list{
+    margin-right: 150px;
+}
